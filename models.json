@@ -79,7 +79,7 @@
     {
       "apiKey": "sk-apx6138e4bee8927154ef50bed83fc3512d32ca9c6df51deab",
       "authStyle": "bearer",
-      "baseUrl": "https:\/\/api.apinex.bond\/v1\/chat\/completions",
+      "baseUrl": "https:\/\/api.apinex.bond\/v1",
       "capabilities": [
         "vision",
         "documents"
