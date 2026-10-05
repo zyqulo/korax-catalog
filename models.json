@@ -1,0 +1,111 @@
+{
+  "config": {
+    "appName": "Korax",
+    "accent": "white",
+    "theme": "dark",
+    "inputPlaceholder": "Спросите о чём угодно…",
+    "disclaimer": "Korax - это сборник ии. Все нейросети могут давать ложную или неверную информацию",
+    "emptyTitle": "С кем начнём разговор?",
+    "emptySubtitle": "Выберите нейросеть в шапке, чтобы начать новый чат",
+    "pickerTitle": "Выберите нейросеть",
+    "modeTitle": "Режим ИИ",
+    "modeSubtitle": "Выберите глубину ответа",
+    "listeningLabel": "Слушаю вас…",
+    "finishLabel": "Завершить",
+    "iconUrl": "",
+    "defaultModeId": "standard",
+    "defaultModelId": "deepseek",
+    "modes": [
+      {
+        "id": "standard",
+        "title": "Standard",
+        "subtitle": "Для повседневных вопросов",
+        "glyph": "bolt",
+        "instruction": "Отвечай коротко и по делу, без лишних деталей."
+      },
+      {
+        "id": "high",
+        "title": "High",
+        "subtitle": "Больше анализа и деталей",
+        "glyph": "sparkle",
+        "instruction": "Отвечай подробно: добавляй анализ, аргументы и примеры."
+      },
+      {
+        "id": "extra",
+        "title": "Extra",
+        "subtitle": "Для самых сложных задач",
+        "glyph": "brain",
+        "instruction": "Отвечай максимально глубоко: структурируй ответ, рассматривай крайние случаи, приводи примеры и источники."
+      }
+    ]
+  },
+  "models": [
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "provider": "DeepSeek",
+      "baseUrl": "https://api.deepseek.com/v1",
+      "model": "deepseek-chat",
+      "description": "Быстрая и недорогая модель DeepSeek",
+      "icon": "https://www.google.com/s2/favicons?domain=deepseek.ai&sz=64",
+      "requiresApiKey": true,
+      "authStyle": "bearer",
+      "systemPrompt": "",
+      "apiKey": "",
+      "capabilities": ["vision", "documents"],
+      "enabled": true
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen",
+      "provider": "Alibaba",
+      "baseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "model": "qwen-plus",
+      "description": "Модель Qwen от Alibaba",
+      "icon": "https://www.google.com/s2/favicons?domain=qwen.ai&sz=64",
+      "requiresApiKey": true,
+      "authStyle": "bearer",
+      "systemPrompt": "",
+      "enabled": true
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "provider": "OpenAI",
+      "baseUrl": "https://api.openai.com/v1",
+      "model": "gpt-4o-mini",
+      "description": "Модели OpenAI GPT",
+      "icon": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64",
+      "requiresApiKey": true,
+      "authStyle": "bearer",
+      "systemPrompt": "",
+      "enabled": true
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "provider": "Google",
+      "baseUrl": "https://generativelanguage.googleapis.com/v1beta/openai",
+      "model": "gemini-2.0-flash",
+      "description": "Модели Google Gemini",
+      "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64",
+      "requiresApiKey": true,
+      "authStyle": "bearer",
+      "systemPrompt": "",
+      "enabled": true
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "provider": "xAI",
+      "baseUrl": "https://api.x.ai/v1",
+      "model": "grok-2-latest",
+      "description": "Модели xAI Grok",
+      "icon": "https://www.google.com/s2/favicons?domain=x.ai&sz=64",
+      "requiresApiKey": true,
+      "authStyle": "bearer",
+      "systemPrompt": "",
+      "enabled": true
+    }
+  ]
+}
