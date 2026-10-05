@@ -39,21 +39,5 @@
       }
     ]
   },
-  "models": [
-    {
-      "apiKey": "",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/api.x.ai\/v1",
-      "capabilities": [],
-      "description": "Модели xAI Grok",
-      "enabled": true,
-      "icon": "https:\/\/www.google.com\/s2\/favicons?domain=x.ai&sz=64",
-      "id": "grok",
-      "model": "grok-2-latest",
-      "name": "Grok",
-      "provider": "xAI",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    }
-  ]
+  "models": []
 }
