@@ -21,21 +21,24 @@
         "title": "Standard",
         "subtitle": "Для повседневных вопросов",
         "glyph": "bolt",
-        "instruction": "Отвечай коротко и по делу, без лишних деталей."
+        "instruction": "Отвечай коротко и по делу, без лишних деталей.",
+        "thinking": ""
       },
       {
         "id": "high",
         "title": "High",
         "subtitle": "Больше анализа и деталей",
         "glyph": "sparkle",
-        "instruction": "Отвечай подробно: добавляй анализ, аргументы и примеры."
+        "instruction": "Отвечай подробно: добавляй анализ, аргументы и примеры.",
+        "thinking": ""
       },
       {
         "id": "extra",
         "title": "Extra",
         "subtitle": "Для самых сложных задач",
         "glyph": "brain",
-        "instruction": "Отвечай максимально глубоко: структурируй ответ, рассматривай крайние случаи, приводи примеры и источники."
+        "instruction": "Отвечай максимально глубоко: структурируй ответ, рассматривай крайние случаи, приводи примеры и источники.",
+        "thinking": ""
       }
     ]
   },
@@ -55,6 +58,7 @@
       "model": "glm-5.3-flash",
       "name": "glm-5.3-flash",
       "provider": "",
+      "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
     },
@@ -73,6 +77,26 @@
       "model": "qwen\/qwen3.8-max:free",
       "name": "qwen3.8-max:free",
       "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
+    },
+    {
+      "apiKey": "thk_live__7CbcIfaEeTZw2bMAp9zJS-nrkrVKzJTl3-zDJdBY6rKgQ4NSKd8mY4dn6x5hu22",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
+      "capabilities": [
+        "vision",
+        "documents"
+      ],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "mimo-v2.6-flash:free",
+      "model": "mimo-v2.6-flash:free",
+      "name": "mimo-v2.6-flash",
+      "provider": "",
+      "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
     }
