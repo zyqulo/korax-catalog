@@ -93,6 +93,23 @@
       "provider": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "sk-apx6138e4bee8927154ef50bed83fc3512d32ca9c6df51deab",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/api.apinex.bond\/v1\/chat\/completions",
+      "capabilities": [
+        "vision"
+      ],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "free\/deepseek-v4.1-flash",
+      "model": "free\/deepseek-v4.1-flash",
+      "name": "deepseek-v4.1-flash",
+      "provider": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
