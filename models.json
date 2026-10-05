@@ -50,7 +50,7 @@
       ],
       "description": "",
       "enabled": true,
-      "icon": "https:\/\/z-cdn.chatglm.cn\/z-ai\/static\/logo.svg",
+      "icon": "https:\/\/z-cdn.\/z-ai\/static\/logo.svg",
       "id": "glm-5.3-flash",
       "model": "glm-5.3-flash",
       "name": "glm-5.3-flash",
