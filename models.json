@@ -43,21 +43,6 @@
     {
       "apiKey": "",
       "authStyle": "bearer",
-      "baseUrl": "https:\/\/generativelanguage.googleapis.com\/v1beta\/openai",
-      "capabilities": [],
-      "description": "Модели Google Gemini",
-      "enabled": true,
-      "icon": "https:\/\/www.google.com\/s2\/favicons?domain=gemini.google.com&sz=64",
-      "id": "gemini",
-      "model": "gemini-2.0-flash",
-      "name": "Gemini",
-      "provider": "Google",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "",
-      "authStyle": "bearer",
       "baseUrl": "https:\/\/api.x.ai\/v1",
       "capabilities": [],
       "description": "Модели xAI Grok",
