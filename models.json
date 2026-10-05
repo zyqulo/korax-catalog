@@ -75,24 +75,6 @@
       "provider": "",
       "requiresApiKey": true,
       "systemPrompt": ""
-    },
-    {
-      "apiKey": "sk-xt-5eb2c8e46ba6a189543a2887fa52e5afbfa56f817c021bce",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/api.xkiro.com\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": true,
-      "icon": "https:\/\/static.vecteezy.com\/system\/resources\/previews\/012\/871\/381\/non_2x\/meta-brand-icon-illustration-top-tech-company-logotype-free-png.png",
-      "id": "meta\/muse-spark-1.3-contributor:free",
-      "model": "meta\/muse-spark-1.3-contributor:free",
-      "name": "muse-spark-1.3",
-      "provider": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
     }
   ]
 }
