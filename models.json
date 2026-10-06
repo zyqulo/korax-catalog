@@ -76,22 +76,6 @@
       "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/aihubmix.com\/v1",
-      "capabilities": [],
-      "description": "",
-      "enabled": false,
-      "icon": "",
-      "id": "glm-4.7-flash-free",
-      "model": "glm-4.7-flash-free",
-      "name": "glm-4.7-flash",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/aihubmix.com\/v1",
       "capabilities": [
         "vision",
         "documents"
