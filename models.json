@@ -108,7 +108,7 @@
     {
       "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
       "authStyle": "bearer",
-      "baseUrl": "https:\/\/aihubmix.com\/v1\/chat\/completions",
+      "baseUrl": "https:\/\/aihubmix.com\/v1",
       "capabilities": [
         "vision",
         "documents"
