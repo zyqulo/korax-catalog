@@ -54,41 +54,6 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:Q3hiNXQzYVNVblZhY0lMYUp2UzNnOWZMbjNLZmdncERwM3VnMU91bnlnOXpOdVVI",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/modelrouter.id\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "deepseek-v4.1-flash:free",
-      "model": "deepseek-v4.1-flash:free",
-      "name": "deepseek-v4.1-flash:free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/aihubmix.com\/v1",
-      "capabilities": [],
-      "description": "",
-      "enabled": false,
-      "icon": "",
-      "id": "minimax-m2.7-free",
-      "model": "minimax-m2.7-free",
-      "name": "minimax-m2.7-free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/aihubmix.com\/v1",
