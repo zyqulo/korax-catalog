@@ -15,7 +15,7 @@
   },
   "models": [
     {
-      "apiKey": "sk-9bff336f30413ceef6713a0b7c0628f87ebff56d58027d4e2cf119526f78f966",
+      "apiKey": "b64:c2stOWJmZjMzNmYzMDQxM2NlZWY2NzEzYTBiN2MwNjI4Zjg3ZWJmZjU2ZDU4MDI3ZDRlMmNmMTE5NTI2Zjc4Zjk2Ng==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/top-tools-ai.com\/api\/v1",
       "capabilities": [
@@ -34,7 +34,7 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "thk_live__7CbcIfaEeTZw2bMAp9zJS-nrkrVKzJTl3-zDJdBY6rKgQ4NSKd8mY4dn6x5hu22",
+      "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUy1ucmtyVkt6SlRsMy16REpkQlk2cktnUTROU0tkOG1ZNGRuNng1aHUyMg==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/tokenharbor.ai\/v1",
       "capabilities": [
@@ -54,7 +54,7 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "thk_live__7CbcIfaEeTZw2bMAp9zJS-nrkrVKzJTl3-zDJdBY6rKgQ4NSKd8mY4dn6x5hu22",
+      "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUy1ucmtyVkt6SlRsMy16REpkQlk2cktnUTROU0tkOG1ZNGRuNng1aHUyMg==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/tokenharbor.ai\/v1",
       "capabilities": [
@@ -68,6 +68,22 @@
       "id": "deepseek-v4.1-flash:free",
       "model": "deepseek-v4.1-flash:free",
       "name": "deepseek-v4.1-flash",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/aihubmix.com\/v1\/chat\/completions",
+      "capabilities": [],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "glm-4.7-flash-free",
+      "model": "glm-4.7-flash-free",
+      "name": "glm-4.7-flash",
       "provider": "",
       "proxyUrl": "",
       "requiresApiKey": true,
