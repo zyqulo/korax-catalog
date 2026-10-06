@@ -76,25 +76,6 @@
       "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/aihubmix.com\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": false,
-      "icon": "",
-      "id": "dots-3-note-preview-free",
-      "model": "dots-3-note-preview-free",
-      "name": "dots-3-note-preview-free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/aihubmix.com\/v1",
       "capabilities": [],
       "description": "",
       "enabled": false,
