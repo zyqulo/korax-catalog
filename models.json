@@ -98,7 +98,7 @@
         "documents"
       ],
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "icon": "",
       "id": "dots-3-note-preview-free",
       "model": "dots-3-note-preview-free",
