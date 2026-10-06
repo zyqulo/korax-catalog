@@ -51,22 +51,6 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
-    },
-    {
-      "apiKey": "sk-nD0YN1IhmdGwn75Lv1ey7PYVT60JXmVvlhx4HRjvSzFTXmUb",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/api.apiqik.com",
-      "capabilities": [],
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "Qwen3-8B:default",
-      "model": "Qwen3-8B:default",
-      "name": "Qwen3-8B:default",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
     }
   ]
 }
