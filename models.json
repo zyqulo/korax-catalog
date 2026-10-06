@@ -54,25 +54,6 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:c2stOWJmZjMzNmYzMDQxM2NlZWY2NzEzYTBiN2MwNjI4Zjg3ZWJmZjU2ZDU4MDI3ZDRlMmNmMTE5NTI2Zjc4Zjk2Ng==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/top-tools-ai.com\/api\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": true,
-      "icon": "https:\/\/z-cdn.\/z-ai\/static\/logo.svg",
-      "id": "mimo-v2.5-pro",
-      "model": "glm-5.3-flash",
-      "name": "mimo-v2.5-pro",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:Q3hiNXQzYVNVblZhY0lMYUp2UzNnOWZMbjNLZmdncERwM3VnMU91bnlnOXpOdVVI",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/modelrouter.id\/v1",
