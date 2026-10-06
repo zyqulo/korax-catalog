@@ -52,6 +52,26 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "thk_live__7CbcIfaEeTZw2bMAp9zJS-nrkrVKzJTl3-zDJdBY6rKgQ4NSKd8mY4dn6x5hu22",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
+      "capabilities": [
+        "vision",
+        "documents",
+        "proxy"
+      ],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "deepseek-v4.1-flash:free",
+      "model": "deepseek-v4.1-flash:free",
+      "name": "deepseek-v4.1-flash",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
