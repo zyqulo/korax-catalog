@@ -177,6 +177,25 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:Q3hiNXQzYVNVblZhY0lMYUp2UzNnOWZMbjNLZmdncERwM3VnMU91bnlnOXpOdVVI",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/modelrouter.id\/v1",
+      "capabilities": [
+        "vision",
+        "documents"
+      ],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "gemini-3.6-flash-high",
+      "model": "gemini-3.6-flash-high",
+      "name": "gemini-3.6-flash",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
