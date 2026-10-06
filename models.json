@@ -73,22 +73,6 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/aihubmix.com\/v1",
-      "capabilities": [],
-      "description": "",
-      "enabled": false,
-      "icon": "",
-      "id": "hy3-free",
-      "model": "hy3-free",
-      "name": "hy3-free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:c2stOWJmZjMzNmYzMDQxM2NlZWY2NzEzYTBiN2MwNjI4Zjg3ZWJmZjU2ZDU4MDI3ZDRlMmNmMTE5NTI2Zjc4Zjk2Ng==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/top-tools-ai.com\/api\/v1",
