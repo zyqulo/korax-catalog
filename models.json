@@ -54,25 +54,6 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:c2stR051Y2pBYVVhRFZ5NlVvcjMwMmM3ZjMxMmRCYzQyNTQ4NkZmOTFGNjk0QTYxY0Ex",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/aihubmix.com\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": false,
-      "icon": "",
-      "id": "xiaomi-mimo-v2.6-pro-free",
-      "model": "xiaomi-mimo-v2.6-pro-free",
-      "name": "xiaomi-mimo-v2.6-pro-free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:c2stOWJmZjMzNmYzMDQxM2NlZWY2NzEzYTBiN2MwNjI4Zjg3ZWJmZjU2ZDU4MDI3ZDRlMmNmMTE5NTI2Zjc4Zjk2Ng==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/top-tools-ai.com\/api\/v1",
