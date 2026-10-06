@@ -114,7 +114,7 @@
       "baseUrl": "https:\/\/aihubmix.com\/v1",
       "capabilities": [],
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "icon": "",
       "id": "minimax-m2.7-free",
       "model": "minimax-m2.7-free",
