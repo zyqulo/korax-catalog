@@ -8,39 +8,10 @@
     "emptyTitle": "С кем начнём разговор?",
     "emptySubtitle": "Выберите нейросеть в шапке, чтобы начать новый чат",
     "pickerTitle": "Выберите нейросеть",
-    "modeTitle": "Режим ИИ",
-    "modeSubtitle": "Выберите глубину ответа",
     "listeningLabel": "Слушаю вас…",
     "finishLabel": "Завершить",
     "iconUrl": "",
-    "defaultModeId": "standard",
-    "defaultModelId": "deepseek",
-    "modes": [
-      {
-        "id": "standard",
-        "title": "Standard",
-        "subtitle": "Для повседневных вопросов",
-        "glyph": "bolt",
-        "instruction": "Отвечай коротко и по делу, без лишних деталей.",
-        "thinking": ""
-      },
-      {
-        "id": "high",
-        "title": "High",
-        "subtitle": "Больше анализа и деталей",
-        "glyph": "sparkle",
-        "instruction": "Отвечай подробно: добавляй анализ, аргументы и примеры.",
-        "thinking": ""
-      },
-      {
-        "id": "extra",
-        "title": "Extra",
-        "subtitle": "Для самых сложных задач",
-        "glyph": "brain",
-        "instruction": "Отвечай максимально глубоко: структурируй ответ, рассматривай крайние случаи, приводи примеры и источники.",
-        "thinking": ""
-      }
-    ]
+    "defaultModelId": "deepseek"
   },
   "models": [
     {
@@ -57,25 +28,6 @@
       "id": "glm-5.3-flash",
       "model": "glm-5.3-flash",
       "name": "glm-5.3-flash",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "sk-xt-5eb2c8e46ba6a189543a2887fa52e5afbfa56f817c021bce",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/api.xkiro.com\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": true,
-      "icon": "https:\/\/legasoft.ru\/upload\/iblock\/d9d\/ej5nmsnqxb3ta2c3291c2kxgadomxd97.png",
-      "id": "qwen\/qwen3.8-max:free",
-      "model": "qwen\/qwen3.8-max:free",
-      "name": "qwen3.8-max:free",
       "provider": "",
       "proxyUrl": "",
       "requiresApiKey": true,
