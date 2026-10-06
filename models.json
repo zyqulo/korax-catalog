@@ -39,7 +39,8 @@
       "baseUrl": "https:\/\/tokenharbor.ai\/v1",
       "capabilities": [
         "vision",
-        "documents"
+        "documents",
+        "proxy"
       ],
       "description": "",
       "enabled": true,
