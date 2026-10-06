@@ -27,7 +27,7 @@
       "icon": "https:\/\/z-cdn.\/z-ai\/static\/logo.svg",
       "id": "glm-5.3-flash",
       "model": "glm-5.3-flash",
-      "name": "glm-5.3-flash",
+      "name": "glm-5.3-flash (tta)",
       "provider": "",
       "proxyUrl": "",
       "requiresApiKey": true,
