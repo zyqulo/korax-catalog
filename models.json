@@ -79,7 +79,7 @@
       "baseUrl": "https:\/\/aihubmix.com\/v1",
       "capabilities": [],
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "icon": "",
       "id": "glm-4.7-flash-free",
       "model": "glm-4.7-flash-free",
