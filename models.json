@@ -133,7 +133,7 @@
         "documents"
       ],
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "icon": "",
       "id": "xiaomi-mimo-v2.6-pro-free",
       "model": "xiaomi-mimo-v2.6-pro-free",
