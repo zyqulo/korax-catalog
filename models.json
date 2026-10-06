@@ -123,22 +123,6 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:c2stb3ItdjEtMmNmZGNhMjkwMDhlMjljNTcyY2YxNGZlY2U4YmM0M2ZjZWUzNjMyMjdmMWZlOWVhZTcxMGVlZmQwNjc2MWFjMw==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/openrouter.ai\/api\/v1",
-      "capabilities": [],
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "inclusionai\/ling-3.1-flash",
-      "model": "inclusionai\/ling-3.1-flash",
-      "name": "ling-3.1-flash",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
     }
   ]
 }
