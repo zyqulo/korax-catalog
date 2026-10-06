@@ -54,20 +54,19 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUy1ucmtyVkt6SlRsMy16REpkQlk2cktnUTROU0tkOG1ZNGRuNng1aHUyMg==",
+      "apiKey": "b64:Q3hiNXQzYVNVblZhY0lMYUp2UzNnOWZMbjNLZmdncERwM3VnMU91bnlnOXpOdVVI",
       "authStyle": "bearer",
-      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
+      "baseUrl": "https:\/\/modelrouter.id\/v1",
       "capabilities": [
         "vision",
-        "documents",
-        "proxy"
+        "documents"
       ],
       "description": "",
       "enabled": true,
-      "icon": "https:\/\/www.dropbox.com\/scl\/fi\/i23x0zx1l850v8byusec4\/group-2-1.png?rlkey=ovpk1uhtuq3xucb2u7lu2s37u&st=e8ghg0d0&dl=0",
+      "icon": "",
       "id": "deepseek-v4.1-flash:free",
       "model": "deepseek-v4.1-flash:free",
-      "name": "deepseek-v4.1-flash",
+      "name": "deepseek-v4.1-flash:free",
       "provider": "",
       "proxyUrl": "",
       "requiresApiKey": true,
