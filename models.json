@@ -110,6 +110,25 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:YXB4X2xpdmVfc2hqOE9yUHJwWmVZQW5NMXhCWHZ0dHQ1Njlia0M1VGJNd2kyZ0xGdQ==",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/api.apmix.ai\/v1",
+      "capabilities": [
+        "vision",
+        "documents"
+      ],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "claude-sonnet-4-6-free",
+      "model": "claude-sonnet-4-6-free",
+      "name": "claude-sonnet-4-6-free",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
