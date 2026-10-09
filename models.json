@@ -55,25 +55,6 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:Q3hiNXQzYVNVblZhY0lMYUp2UzNnOWZMbjNLZmdncERwM3VnMU91bnlnOXpOdVVI",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/modelrouter.id\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "muse-spark-1.3-contributor",
-      "model": "gemini-3.6-flash-high",
-      "name": "muse-spark-1.3-contributor (mr)",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:YXB4X2xpdmVfc2hqOE9yUHJwWmVZQW5NMXhCWHZ0dHQ1Njlia0M1VGJNd2kyZ0xGdQ==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/api.apmix.ai\/v1",
