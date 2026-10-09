@@ -54,25 +54,6 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:Q3hiNXQzYVNVblZhY0lMYUp2UzNnOWZMbjNLZmdncERwM3VnMU91bnlnOXpOdVVI",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/modelrouter.id\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "mimo-v2.6-flash",
-      "model": "mimo-v2.6-flash",
-      "name": "mimo-v2.6-flash (mr)",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUy1ucmtyVkt6SlRsMy16REpkQlk2cktnUTROU0tkOG1ZNGRuNng1aHUyMg==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/tokenharbor.ai\/v1",
