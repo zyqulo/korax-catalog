@@ -15,25 +15,6 @@
   },
   "models": [
     {
-      "apiKey": "b64:c2stOWJmZjMzNmYzMDQxM2NlZWY2NzEzYTBiN2MwNjI4Zjg3ZWJmZjU2ZDU4MDI3ZDRlMmNmMTE5NTI2Zjc4Zjk2Ng==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/top-tools-ai.com\/api\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "description": "",
-      "enabled": true,
-      "icon": "https:\/\/z-cdn.\/z-ai\/static\/logo.svg",
-      "id": "glm-5.3-flash",
-      "model": "glm-5.3-flash",
-      "name": "glm-5.3-flash (tta)",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUy1ucmtyVkt6SlRsMy16REpkQlk2cktnUTROU0tkOG1ZNGRuNng1aHUyMg==",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/tokenharbor.ai\/v1",
