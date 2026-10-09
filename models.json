@@ -48,7 +48,7 @@
       "icon": "",
       "id": "deepseek-v4.1-flash:free",
       "model": "deepseek-v4.1-flash:free",
-      "name": "deepseek-v4.1-flash (th)",
+      "name": "deepseek-v4.1-flash",
       "provider": "",
       "proxyUrl": "",
       "requiresApiKey": true,
