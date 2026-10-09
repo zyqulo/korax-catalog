@@ -129,6 +129,26 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUw==",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
+      "capabilities": [
+        "vision",
+        "documents",
+        "proxy"
+      ],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "claude-haiku-5.5:free",
+      "model": "claude-haiku-5.5:free",
+      "name": "claude-haiku-5.5:free",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
