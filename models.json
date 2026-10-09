@@ -67,7 +67,7 @@
       "icon": "",
       "id": "claude-sonnet-4-6-free",
       "model": "claude-sonnet-4-6-free",
-      "name": "claude-sonnet-4-6-free",
+      "name": "claude-sonnet-4-6",
       "provider": "",
       "proxyUrl": "",
       "requiresApiKey": true,
