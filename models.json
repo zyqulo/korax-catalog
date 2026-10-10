@@ -92,6 +92,22 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:eHBsXzdkMzNiNmE2OTk3NDBjMGI2OGEwZDQzOTc0OTBhZDZiNjJjZDkxOTk=",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/api.experientiallabs.ai\/v1",
+      "capabilities": [],
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "qwen3.8-flash-next-uncensored",
+      "model": "qwen3.8-flash-next-uncensored",
+      "name": "qwen3.8-flash (без цензуры)",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
