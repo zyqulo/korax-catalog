@@ -74,9 +74,9 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUw==",
+      "apiKey": "b64:dGhrX2xpdmVfdzRwY3ozS0k3WHk4WFdkWTdfQXNYRzdvX0dlSHNHb0ZPZE1hWk5GMHNHTzB3ZWtXcHA2UU5MaTllQWlBWGtkbg==",
       "authStyle": "bearer",
-      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
+      "baseUrl": "https:\/\/tokenharbor.ai\/v1\/chat\/completions",
       "capabilities": [
         "vision",
         "documents",
