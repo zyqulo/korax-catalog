@@ -60,6 +60,26 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:dGhrX2xpdmVfcFl4eHFqd2IzQlMweldUbk5qTlFtdGtqT3hBYmoyMjVqM3NseUNZSjN6SDN5ZlRGT3E0ZjlFRnFUMnF0NkFqTA==",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
+      "capabilities": [
+        "vision",
+        "proxy"
+      ],
+      "context": 1048576,
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "mimo-v2.6-flash:free",
+      "model": "mimo-v2.6-flash:free",
+      "name": "mimo-v2.6-flash:free",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
