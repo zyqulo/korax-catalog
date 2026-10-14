@@ -2,7 +2,7 @@
   "config": {
     "appName": "Korax",
     "accent": "green",
-    "theme": "dark",
+    "theme": "light",
     "inputPlaceholder": "Спросите о чём угодно…",
     "disclaimer": "Korax - это сборник ии. Все нейросети могут давать ложную или неверную информацию",
     "emptyTitle": "С кем начнём разговор?",
@@ -13,95 +13,11 @@
     "iconUrl": "",
     "defaultModelId": "deepseek",
     "update": {
-      "url": "https:\/\/www.dropbox.com\/scl\/fi\/6msnkinjswk9c3r29\/Korax.k?rlkey=0x6znaddzyo7rr4pfbohlk1i3&st=9qbh5uqv&dl=1",
+      "url": "https:\/\/www.dropbox.com\/scl\/fi\/abv0gr3k3ylpje869vqtm\/Korax.apk?rlkey=nwbjvj6irio8iyw778k8stiju&st=lh8ekrl7&dl=1",
       "required": false,
-      "version": "1.4",
+      "version": "1.5",
       "message": ""
     }
   },
-  "models": [
-    {
-      "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUy1ucmtyVkt6SlRsMy16REpkQlk2cktnUTROU0tkOG1ZNGRuNng1aHUyMg==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
-      "capabilities": [
-        "vision",
-        "documents",
-        "proxy"
-      ],
-      "context": 0,
-      "description": "",
-      "enabled": true,
-      "icon": "https:\/\/www.dropbox.com\/scl\/fi\/c4qlvjs3e6dk4b3p8jvwe\/xiaomi-logo.webp?rlkey=rmznmoicvfbq88i1556k4lqpr&st=cr8gloyc&dl=0",
-      "id": "mimo-v2.6-flash:free",
-      "model": "mimo-v2.6-flash:free",
-      "name": "mimo-v2.6",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:dGhrX2xpdmVfXzdDYmNJZmFFZVRadzJiTUFwOXpKUy1ucmtyVkt6SlRsMy16REpkQlk2cktnUTROU0tkOG1ZNGRuNng1aHUyMg==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
-      "capabilities": [
-        "vision",
-        "documents",
-        "proxy"
-      ],
-      "context": 0,
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "deepseek-v4.1-flash:free",
-      "model": "deepseek-v4.1-flash:free",
-      "name": "deepseek-v4.1-flash",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:YXB4X2xpdmVfc2hqOE9yUHJwWmVZQW5NMXhCWHZ0dHQ1Njlia0M1VGJNd2kyZ0xGdQ==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/api.apmix.ai\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "context": 0,
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "claude-sonnet-4-6-free",
-      "model": "claude-sonnet-4-6-free",
-      "name": "claude-sonnet-4-6",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:dGhrX2xpdmVfdzRwY3ozS0k3WHk4WFdkWTdfQXNYRzdvX0dlSHNHb0ZPZE1hWk5GMHNHTzB3ZWtXcHA2UU5MaTllQWlBWGtkbg==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
-      "capabilities": [
-        "vision",
-        "documents",
-        "proxy"
-      ],
-      "context": 0,
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "claude-haiku-5.5:free",
-      "model": "claude-haiku-5.5:free",
-      "name": "claude-haiku-5.5:free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    }
-  ]
+  "models": []
 }
