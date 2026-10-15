@@ -93,6 +93,26 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:Y2NfdkVWTkwzSU1qN1hhaEVIODEwMWJVU01FdVVzdzdYQ083NWRDWXZyTlQ1VXhEVnVC",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/cleanapis.com\/v1",
+      "capabilities": [
+        "vision",
+        "documents"
+      ],
+      "context": 500000,
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "grok-4.6",
+      "model": "grok-4.6",
+      "name": "grok-4.6",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
