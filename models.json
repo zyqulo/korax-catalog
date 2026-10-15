@@ -11,13 +11,7 @@
     "listeningLabel": "Слушаю вас…",
     "finishLabel": "Завершить",
     "iconUrl": "",
-    "defaultModelId": "deepseek",
-    "update": {
-      "url": "https:\/\/www.dropbox.com\/scl\/fi\/abv0gr3k3ylpje869vqtm\/Korax.apk?rlkey=nwbjvj6irio8iyw778k8stiju&st=lh8ekrl7&dl=1",
-      "required": false,
-      "version": "1.5",
-      "message": ""
-    }
+    "defaultModelId": ""
   },
   "models": [
     {
