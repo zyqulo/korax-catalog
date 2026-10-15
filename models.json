@@ -20,27 +20,6 @@
       "baseUrl": "https:\/\/tokenharbor.ai\/v1",
       "capabilities": [
         "vision",
-        "documents",
-        "proxy"
-      ],
-      "context": 1000000,
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "claude-haiku-5.5:free",
-      "model": "claude-haiku-5.5:free",
-      "name": "claude-haiku-5.5:free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
-      "apiKey": "b64:dGhrX2xpdmVfcFl4eHFqd2IzQlMweldUbk5qTlFtdGtqT3hBYmoyMjVqM3NseUNZSjN6SDN5ZlRGT3E0ZjlFRnFUMnF0NkFqTA==",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/tokenharbor.ai\/v1",
-      "capabilities": [
-        "vision",
         "proxy"
       ],
       "context": 1048576,
