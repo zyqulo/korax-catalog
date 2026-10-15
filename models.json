@@ -55,7 +55,7 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:emtfNTdmN2U3YTBhNDkyNGE5ZThmZjJlZWM4ZDdjNmQ5YzE=",
+      "apiKey": "b64:emtfNTkzOTU1ZWUxNjU5OGNiMWFjY2YxMjY2M2RhYzZiZGE0MTIwMWMxMmZjYmY5ODYz",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/api.zyloai.net\/v1",
       "capabilities": [
@@ -68,7 +68,7 @@
       "icon": "",
       "id": "glm-5.3-flash",
       "model": "glm-5.3-flash",
-      "name": "glm-5.3-flash",
+      "name": "glm-5.3-flash-free",
       "provider": "",
       "proxyUrl": "",
       "requiresApiKey": true,
