@@ -53,6 +53,26 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:emtfNTdmN2U3YTBhNDkyNGE5ZThmZjJlZWM4ZDdjNmQ5YzE=",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/api.zyloai.net\/v1",
+      "capabilities": [
+        "vision",
+        "documents"
+      ],
+      "context": 0,
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "glm-5.3-flash",
+      "model": "glm-5.3-flash",
+      "name": "glm-5.3-flash",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
