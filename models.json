@@ -113,6 +113,26 @@
       "proxyUrl": "",
       "requiresApiKey": true,
       "systemPrompt": ""
+    },
+    {
+      "apiKey": "b64:Y2NfdkVWTkwzSU1qN1hhaEVIODEwMWJVU01FdVVzdzdYQ083NWRDWXZyTlQ1VXhEVnVC",
+      "authStyle": "bearer",
+      "baseUrl": "https:\/\/cleanapis.com\/v1",
+      "capabilities": [
+        "vision",
+        "documents"
+      ],
+      "context": 1000000,
+      "description": "",
+      "enabled": true,
+      "icon": "",
+      "id": "glm-5.3",
+      "model": "glm-5.3",
+      "name": "glm-5.3",
+      "provider": "",
+      "proxyUrl": "",
+      "requiresApiKey": true,
+      "systemPrompt": ""
     }
   ]
 }
