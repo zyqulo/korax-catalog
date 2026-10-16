@@ -55,26 +55,6 @@
       "systemPrompt": ""
     },
     {
-      "apiKey": "b64:emtfNTkzOTU1ZWUxNjU5OGNiMWFjY2YxMjY2M2RhYzZiZGE0MTIwMWMxMmZjYmY5ODYz",
-      "authStyle": "bearer",
-      "baseUrl": "https:\/\/api.zyloai.net\/v1",
-      "capabilities": [
-        "vision",
-        "documents"
-      ],
-      "context": 0,
-      "description": "",
-      "enabled": true,
-      "icon": "",
-      "id": "glm-5.3-flash",
-      "model": "glm-5.3-flash",
-      "name": "glm-5.3-flash-free",
-      "provider": "",
-      "proxyUrl": "",
-      "requiresApiKey": true,
-      "systemPrompt": ""
-    },
-    {
       "apiKey": "b64:Y2NfdkVWTkwzSU1qN1hhaEVIODEwMWJVU01FdVVzdzdYQ083NWRDWXZyTlQ1VXhEVnVC",
       "authStyle": "bearer",
       "baseUrl": "https:\/\/cleanapis.com\/v1",
